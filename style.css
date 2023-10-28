@@ -114,7 +114,7 @@ body {
     padding: 13px 20px;
     box-sizing: border-box;
     border: none;
-    border-radius: 10px; /*define shape corner of the box*/
+    border-radius: 10px;
 }   
 .button{
     text-align: center;
